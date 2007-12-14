@@ -1,7 +1,7 @@
 %define Product CMFEditions
 %define product cmfeditions
 %define name    zope-%{Product}
-%define version 1.1.1
+%define version 1.1.4
 %define release %mkrel 1
 
 %define zope_minver     2.7
