@@ -14,7 +14,7 @@ Release:	%{release}
 Summary:    Versioning component integrated into Plone
 License:    GPL
 Group:      System/Servers
-URL:        http://plone.org/products/%{product}
+URL:        https://plone.org/products/%{product}
 Source:     http://plone.org/products/%{product}/releases/%{version}/%{Product}-%{version}.tgz
 Requires:   zope >= %{zope_minver}
 BuildArch:  noarch
